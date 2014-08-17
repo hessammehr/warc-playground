@@ -1,0 +1,22 @@
+{
+  "name": "warc_playground",
+  "version": "0.0.1",
+  "description": "Utility to parse web archive (WARC) files",
+  "main": "test1.js",
+  "dependencies": {
+    "bufferstream": "~0.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test1.js test1.warc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hessammehr/warc-playground.git"
+  },
+  "author": "S. Hessam M. Mehr",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/hessammehr/warc-playground/issues"
+  }
+}
