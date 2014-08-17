@@ -4,7 +4,8 @@
   "description": "Utility to parse web archive (WARC) files",
   "main": "test1.js",
   "dependencies": {
-    "bufferstream": "~0.6.2"
+    "bufferstream": "~0.6.2",
+    "colors": "~0.6.2"
   },
   "devDependencies": {},
   "scripts": {
